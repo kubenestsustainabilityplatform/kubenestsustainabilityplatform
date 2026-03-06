@@ -1,16 +1,25 @@
-## Hi there 👋
+# KubeNest - All-in-One Sustainability Data Management Platform
 
-<!--
-**kubenestsustainabilityplatform/kubenestsustainabilityplatform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Centralise. Automate. Report.**
 
-Here are some ideas to get you started:
+KubeNest helps Australian businesses manage their sustainability data in one place — Scope 1, 2 and 3 emissions, waste, water and WHS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What We Do
+
+- **Emissions Tracking** — Scope 1, 2 and 3 with 10,000+ built-in emission factors
+- **Waste & Water Management** — Track, analyse and reduce environmental impact
+- **WHS Compliance** — Workplace health and safety data alongside your ESG metrics
+- **Automated Reporting** — Audit-ready reports in minutes, not weeks
+- **Framework Support** — GHG Protocol, GRI, GRESB, AASB S2
+
+## Who It's For
+
+- Property developers tracking embodied carbon
+- Manufacturers managing Scope 3 supply chain emissions
+- SMEs preparing for mandatory climate reporting under AASB S2
+- Any Australian organisation that needs to measure, manage and report sustainability data
+
+## Get Started
+
+- Website: [kubenest.com.au](https://kubenest.com.au)
+- Location: Hamilton, NSW 2303, Australia
